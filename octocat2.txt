@@ -1,0 +1,1 @@
+This is the first lien of octocat.txt file I made for the git 15 min Training.
